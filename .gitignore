@@ -1,1 +1,7 @@
+// Create a simple .gitignore file in order to ignore our node_modules directory. 
+// It should contain a single line:
+
+
 node_modules/  
+
+
